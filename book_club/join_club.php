@@ -38,7 +38,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
   <style>
     body {
       font-family: 'Open Sans', sans-serif;
-      background-color: #f4f4f9;
+      background-color: #9999e6;
       padding: 40px;
     }
     h2 {
@@ -51,7 +51,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
       background: white;
       padding: 30px;
       border-radius: 15px;
-      box-shadow: 0 4px 20px rgba(0,0,0,0.1);
+      box-shadow: 0 4px 20px rgba(29, 21, 21, 0.1);
     }
     label {
       display: block;

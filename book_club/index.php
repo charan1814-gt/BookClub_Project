@@ -15,12 +15,12 @@ session_start();
     body {
       margin: 0;
       font-family: 'Open Sans', sans-serif;
-      background-color: #b2d515;
-      color: #b00f0f;
+      background-color: #9ebf0a;
+      color: #331010;
     }
 
     header {
-      background-color: #2f2f4f;
+      background-color: #0e0e3d;
       color: white;
       padding: 1rem 2rem;
       display: flex;

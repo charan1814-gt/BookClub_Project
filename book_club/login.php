@@ -40,8 +40,8 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
   <style>
     body {
       font-family: 'Open Sans', sans-serif;
-      background: #f0f2f7;
-      padding: 40px;
+      background: #083cbe;
+      padding: 50px;
     }
     .container {
       max-width: 400px;
@@ -49,7 +49,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
       background: white;
       padding: 30px;
       border-radius: 15px;
-      box-shadow: 0 5px 20px rgba(0,0,0,0.05);
+      box-shadow: 0 5px 20px rgba(4, 3, 3, 0.05);
     }
     h2 {
       font-family: 'Playfair Display', serif;
