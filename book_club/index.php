@@ -15,8 +15,8 @@ session_start();
     body {
       margin: 0;
       font-family: 'Open Sans', sans-serif;
-      background-color: #f5f5f7;
-      color: #333;
+      background-color: #b2d515;
+      color: #b00f0f;
     }
 
     header {
